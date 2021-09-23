@@ -56,7 +56,7 @@ My certificates:
 - [HackerRank's Python Advance](https://www.hackerrank.com/certificates/8bd670394b5b)
 - [Oocademy's Odoo Basic Technical](https://www.oocademy.com/exam/certificate/4b270f8c-b8f7-40b5-bcb1-0e7462da3090)
 - [HackerRank's Problem Solving Basic](https://www.hackerrank.com/certificates/699df47f8b58)
-- [HackerRank's Problen Solving Intermediate](https://www.hackerrank.com/certificates/27aec7896c7c)
+- [HackerRank's Problem Solving Intermediate](https://www.hackerrank.com/certificates/27aec7896c7c)
 - [HackerRank's CSharp Basic](https://www.hackerrank.com/certificates/5245ea63194b)
 
 Carrer as a developer:
