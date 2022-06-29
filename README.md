@@ -16,19 +16,6 @@
 print("Hello World!")
 ```
 
-```C#
-namespace NhatNM
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            System.Console.WriteLine("Hello World!");
-        }
-    }
-}
-```
-
 About Me
 ========
 
@@ -41,10 +28,6 @@ number and then counting down to 0 (pretty silly, huh?). But with that silly
 program, I had a sleepless night, thinking about all things I can archive in
 the world (Again, pretty silly, huh?). And that was the first time I took
 coding as my hobby.
-
-I was so in love with [Python](https://www.python.org/) until I think [C# and
-.NET](https://dotnet.microsoft.com/) is better for developers, it may takes
-longer to create a program, but much less pain when maintaining ones.
 
 Up to now...
 
@@ -63,7 +46,8 @@ Carrer as a developer:
 ----------------------
 
 - Former Odoo Developer at [Viindoo](https://www.viindoo.com)
-- Currenty working as Backend Developer at [SystemGear Viet Nam](https://www.systemgear-vietnam.com/vn)
+- Former Backend Developer at [SystemGear Viet Nam](https://www.systemgear-vietnam.com/vn)
+- Currently working as Backend Developer at [Magenest](https://www.magenest.com)
 
 Check out my social medias:
 ---------------------------
