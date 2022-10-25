@@ -47,7 +47,7 @@ Carrer as a developer:
 
 - Former Odoo Developer at [Viindoo](https://www.viindoo.com)
 - Former Backend Developer at [SystemGear Viet Nam](https://www.systemgear-vietnam.com/vn)
-- Currently working as Backend Developer at [Magenest](https://www.magenest.com)
+- Currently working as Backend Developer at [Leflair](https://www.leflair.com/)
 
 Check out my social medias:
 ---------------------------
