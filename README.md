@@ -16,6 +16,12 @@
 print("Hello World!")
 ```
 
+```rust
+fn main() {
+    println!("Hello World!");
+}
+```
+
 About Me
 ========
 
@@ -45,9 +51,9 @@ My certificates:
 Carrer as a developer:
 ----------------------
 
-- Former Odoo Developer at [Viindoo](https://www.viindoo.com)
 - Former Backend Developer at [SystemGear Viet Nam](https://www.systemgear-vietnam.com/vn)
-- Currently working as Backend Developer at [Leflair](https://www.leflair.com/)
+- Former Backend Developer at [Leflair](https://www.leflair.com/)
+- Currently working as Software Developer at [Newlogic](https://newlogic.com)
 
 Check out my social medias:
 ---------------------------
